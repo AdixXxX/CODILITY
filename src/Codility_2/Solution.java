@@ -1,3 +1,5 @@
+package Codility_2;
+
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
